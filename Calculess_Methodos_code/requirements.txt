@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+jupyter
+autogluon
+jieba
+requests
+matplotlib
+seaborn
