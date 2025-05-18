@@ -16,11 +16,11 @@
 
 ### 描述
 
-[Neo4jGraphConstruction——自动提取图数据](https://github.com/neo4j-labs/llm-graph-builder)
+- [Neo4jGraphConstruction——自动提取图数据](https://github.com/neo4j-labs/llm-graph-builder)
 
 ### 预测
 
-[Autogluon——自动机器学习](https://github.com/autogluon/autogluon)
+- [Autogluon——自动机器学习](https://github.com/autogluon/autogluon)
 
 ### 因果
 
