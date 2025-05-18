@@ -24,15 +24,15 @@
 
 ### 因果
 
-[Oneclick——自动筛选控制变量](https://shutterzor.cn/stata/)
-[CasualML——因果机器学习](https://causalml.readthedocs.io/en/latest/about.html)
+- [Oneclick——自动筛选控制变量](https://shutterzor.cn/stata/)
+- [CasualML——因果机器学习](https://causalml.readthedocs.io/en/latest/about.html)
 
 ### 模拟
 
-[PlatformWar——基于社交平台的观点生成](https://github.com/LYiHub/platform-war-public)
-[Concordia——基于生成式LLM的ABM库](https://github.com/google-deepmind/concordia/tree/main)
-[AgentSociety——基于大模型的社会模拟器](https://agentsociety.readthedocs.io/en/latest/)
-[OASIS——社交媒体模拟器](https://github.com/camel-ai/oasis)
+- [PlatformWar——基于社交平台的观点生成](https://github.com/LYiHub/platform-war-public)
+- [Concordia——基于生成式LLM的ABM库](https://github.com/google-deepmind/concordia/tree/main)
+- [AgentSociety——基于大模型的社会模拟器](https://agentsociety.readthedocs.io/en/latest/)
+- [OASIS——社交媒体模拟器](https://github.com/camel-ai/oasis)
 
 ---
 
